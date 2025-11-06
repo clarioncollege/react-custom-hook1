@@ -1,6 +1,6 @@
 ```bash
 # Clone this project
-$ git clone https://github.com/clarioncollege/react-state.git
+$ git clone https://github.com/clarioncollege/react-custom-hook1.git
 
 # Access
 $ cd react-state
